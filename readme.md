@@ -51,5 +51,5 @@ https://user-images.githubusercontent.com/94147847/156930952-4b44004f-5ce3-4c28-
 [![kflxso4qj0r11](https://user-images.githubusercontent.com/94147847/156931910-05d47592-ce7c-4ed2-a67e-06aabae7d128.gif)](https://github.com/Bumboobee/Sphere-threejs.git)
 
  > The president can't change the country on his own. But what can he do? He can give an example.
- >> **Volodymyr Zelensky**
+ >> **Volodymyr Zelensky 🇺🇦**
 <div \> 
