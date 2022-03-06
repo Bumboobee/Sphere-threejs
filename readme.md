@@ -23,7 +23,7 @@ In Visual Studio Code **Terminal** or other code generator run this followed com
 
 ``` bash
 # Cloning the repository
-git clone -  FolderName
+git clone https://github.com/Bumboobee/Sphere-threejs.git FolderName
 
 # Select the folder 
 cd FolderName
@@ -38,13 +38,13 @@ npm run dev
 npm run build
 ```
 
-## Take a look 📝
+## Take a look
 
- **The final result you can see [➡here⬅](https://bumboobee.github.io/College-site/)**
+ **The final result you can see [➡here⬅](https://github.com/Bumboobee/Sphere-threejs.git)**
  
 <div align="center">
 
-https://user-images.githubusercontent.com/94147847/156930952-4b44004f-5ce3-4c28-bbb5-eea55fbe4150.mp4
+https://user-images.githubusercontent.com/94147847/156930952-4b44004f-5ce3-4c28-bbb5-eea55fbe4150.mp4 [](https://github.com/Bumboobee/Sphere-threejs.git)
 
  > There is no elevator to success. You have to take the stairs.
  >> **Hilary Hinton Zig Ziglar**
