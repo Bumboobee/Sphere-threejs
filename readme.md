@@ -40,11 +40,11 @@ npm run build
 
 ## Take a look
 
- **The final result you can see [➡here⬅](https://github.com/Bumboobee/Sphere-threejs.git)**
+ **The full project you can download [➡here⬅](https://github.com/Bumboobee/Sphere-threejs.git)**
  
 <div align="center">
 
-https://user-images.githubusercontent.com/94147847/156930952-4b44004f-5ce3-4c28-bbb5-eea55fbe4150.mp4 [](https://github.com/Bumboobee/Sphere-threejs.git)
+[!https://user-images.githubusercontent.com/94147847/156930952-4b44004f-5ce3-4c28-bbb5-eea55fbe4150.mp4](https://github.com/Bumboobee/Sphere-threejs.git)
 
  > There is no elevator to success. You have to take the stairs.
  >> **Hilary Hinton Zig Ziglar**
