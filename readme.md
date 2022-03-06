@@ -44,8 +44,12 @@ npm run build
  
 <div align="center">
 
-[!https://user-images.githubusercontent.com/94147847/156930952-4b44004f-5ce3-4c28-bbb5-eea55fbe4150.mp4](https://github.com/Bumboobee/Sphere-threejs.git)
+https://user-images.githubusercontent.com/94147847/156930952-4b44004f-5ce3-4c28-bbb5-eea55fbe4150.mp4
+ 
+#
+ 
+[![kflxso4qj0r11](https://user-images.githubusercontent.com/94147847/156931910-05d47592-ce7c-4ed2-a67e-06aabae7d128.gif)](https://github.com/Bumboobee/Sphere-threejs.git)
 
- > There is no elevator to success. You have to take the stairs.
- >> **Hilary Hinton Zig Ziglar**
+ > The president can't change the country on his own. But what can he do? He can give an example.
+ >> **Volodymyr Zelensky**
 <div \> 
